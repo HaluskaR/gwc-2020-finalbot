@@ -1,9 +1,9 @@
-GWC 2019 Intro Bot
+GWC 2020 Intro Bot
 ==================
 
 Hey GWC team, you've found the starter bot! Excellent work. Before cloning a project, it's a good idea to read the README (this is the README) to underestand what a project does, requires, any special setup, etc. 
 
-This is a very silly, simple bot, but will get us started on our way towards creating something much more interesting. Try reading the code and guessing what it does before proceeding.
+Due to 2020 being 2020, we'll be doing our development hackathon-style by sharing a coding session on codeshare.io, with "pushes" to the bot made locally on my machine. Since that ruins the standard commit-based crediting of git, we'll have a special CREDITS.md file. If you've been directed to this project, please check that file out to see what work everyone did! 
 
 
 Getting Started
